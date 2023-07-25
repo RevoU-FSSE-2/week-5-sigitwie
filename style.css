@@ -453,6 +453,10 @@ nav ul li a:hover {
     padding: 10px;
 }
 
+.porto-section {
+    margin-top: 10%;
+}
+
 .title-porto {
     font-family: degular-display, sans-serif;
     font-weight: 500;
