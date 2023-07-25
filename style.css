@@ -428,11 +428,6 @@ nav ul li a:hover {
 }
 
 
-/* .porto-section {
-    height: 100vh;
-    margin-top: 10%;
-} */
-
 
 .card-grid {
     display: grid;
@@ -511,7 +506,8 @@ footer {
 }
 
 .footer-container {
-    background-color: #EAE8E4;;
+    background-color: #EAE8E4;
+    ;
     margin-top: 10%;
     padding: 30px;
     display: flex;
@@ -533,7 +529,7 @@ footer h4 {
     font-size: 18px;
 }
 
-footer h4 span{
+footer h4 span {
     font-size: 24px;
     font-weight: 200;
 }
@@ -711,7 +707,7 @@ footer a {
     }
 
     .hero-section {
-        transform:translateY(15%);
+        transform: translateY(15%);
     }
 
     .footer-container {
