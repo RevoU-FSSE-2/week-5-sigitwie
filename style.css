@@ -288,8 +288,6 @@ nav ul li a:hover {
     font-size: 65px;
     color: #262626;
     padding: 20px 10px;
-    /* border: 1px solid #262626;
-    border-radius: 20px; */
 }
 
 
@@ -307,9 +305,6 @@ nav ul li a:hover {
     padding: 20px 25px;
     background-image: url(/images/border.svg);
     margin-bottom: 50px;
-    /* background-color: #EAE8E4; */
-    /* border-radius: 20px;
-    justify-content: center; */
 }
 
 .services-section {
@@ -367,7 +362,6 @@ nav ul li a:hover {
     gap: 10vw;
     justify-content: center;
     align-items: center;
-    /* height: 100vh; */
 }
 
 .left-services {
