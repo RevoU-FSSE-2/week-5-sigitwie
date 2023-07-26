@@ -5,7 +5,7 @@
 ## About Commo
 On this project I created a company profile for digital agency called Commo. Commo is one-stop digital agency for all online business needs. A dynamic and innovative company dedicated to helping businesses thrive in the digital world.
 
-This web have a clean and creative look built with simple html, css and JS. Here is a snapshot of the web :
+This web have a clean and creative look built with simple html, css and JS. To make it more interactive i added some animation so it can give fun user experiences on the site. Here is a snapshot of the web :
  ![commo](/images/commo.png)
 
 
