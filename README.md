@@ -35,12 +35,18 @@ This documentation will guide you through the process of registering with Netlif
 6. Click the "Deploy site" button to initiate the initial deployment process.
 7. Once your repository is connected, Netlify will automatically trigger deployments whenever changes occur in your GitHub repository.
 
+ ![git-net](/images/git-net.png)
 ### **Step 3 : Add Custom Domain to Netlify**
 1. In the Netlify dashboard, select the site for which you want to change the domain.
 2. Click the "Domain settings" button.
 3. Choose the "Add custom domain" option.
 4. Enter the domain you want to use.
 
+![dom-net](/images/dom-net.png)
+
+5. Add CNAME record to DNS provider. In this case I use Cloudflare 
+
+![dns-cf](/images/dns-cf.png)
 ## Preview Link
 If you're interested in checking it out, here's the link for you : 
 **[Commo](https://commo.eswe.dev)**.
